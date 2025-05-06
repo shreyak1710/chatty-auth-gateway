@@ -1,0 +1,6 @@
+
+rootProject.name = 'chatty-backend'
+
+include 'customer-service'
+include 'auth-service'
+include 'gateway-service'
